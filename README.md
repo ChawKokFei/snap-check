@@ -1,3 +1,5 @@
+# Snap Check
+
 # Intro
 Mobile app for learning English. Developed for Appetizer Hackathon 2022.
 
